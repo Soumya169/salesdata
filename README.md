@@ -1,19 +1,16 @@
 # Salesdata Insight
-# Tableau Dashboard Embed Example
+# Tableau Dashboard 
+# Tableau Profile Link : [Tableau Public](https://public.tableau.com/app/profile/soumya.ranjan.maharana/vizzes)
 
 This project contains HTML code snippets that embed various Tableau dashboards into a web page. It allows users to view interactive Tableau visualizations directly from Tableau Public.
 
 ## 📊 Dashboards Embedded
 
-1. **Employee Summary HR Dashboard**
-   - Embedded via: `<div id="viz1746332550577">`
-   - Dashboard URL: [Tableau Public](https://public.tableau.com/views/EmployeeSummeryHRDashboard/Dashboard2)
-
-2. **Sales Insight Dataset**
+1. **Sales Insight Dataset**
    - Embedded via: `<div id="viz1746332804710">`
    - Dashboard URL: [Tableau Public](https://public.tableau.com/views/G7DPC9GDH)
 
-3. **Sales Dataset Insight (Story View)**
+2. **Sales Dataset Insight (Story View)**
    - Embedded via multiple divs:
      - `viz1746337649939`
      - `viz1746337851043`
@@ -46,4 +43,4 @@ Each embedded visualization uses Tableau's JavaScript API to load and render the
 
 ## ✍️ Author
 
-Created for Tableau visualization integration demonstration.
+Created for Tableau visualization integration demonstration by Soumya Ranjan Maharana.
